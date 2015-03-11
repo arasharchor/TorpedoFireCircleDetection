@@ -1,0 +1,16 @@
+find target circle xxxxxxxxxx
+
+draw target circle xxxxxxxxxxx
+
+find criteria to fire xxxxxxxxxx
+
+save target location on circle.txt xxxxxxxxxxx
+
+send data to arduino xxxxxxxxxx
+
+final run with arduino
+
+create buffer so that target cant move suddenly
+
+create system if no target is found
+

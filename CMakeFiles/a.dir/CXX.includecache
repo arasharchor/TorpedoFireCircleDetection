@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/shikher/ip/algo/algo.cpp
+opencv2/opencv.hpp
+-
+opencv/highgui.h
+-
+iostream
+-
+stdio.h
+-
+bits/stdc++.h
+-
+fstream
+-
+cstdlib
+-
+string.h
+-
+time.h
+-
+serial_talk.h
+/home/shikher/ip/algo/serial_talk.h
+
+/home/shikher/ip/algo/serial_talk.h
+iostream
+-
+fstream
+-
+cstdlib
+-
+string.h
+-
+
